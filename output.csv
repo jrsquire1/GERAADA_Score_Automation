@@ -1,0 +1,5 @@
+PATID,AGE,SEX,RESUCITATION_BEFORE_SURGERY,PREVIOUS_CARDIAC_SURGERY,INTUBATION_VENTILATION_AT_REFERRAL,CATECHOLAMINES_AT_REFERRAL,AORTIC_VALVE_REGURGITATION,PREOPERATIVE_ORGAN_MALPERFUSION,PREOPERATIVE_HEMIPARESIS,EXTENSION_OF_DISSECTION,LOCATION_OF_PRIMARY_ENTRY_TEAR_WITHIN_AORTIC_ARCH,Risk
+1,70,male,no,no,yes,no,grade I or II,"visceral malperfusion, coronary malperfusion",yes,"supraaortic vessels, aortic arch",no,61.2%
+2,65,female,yes,yes,no,yes,none,no,no,unknown or other,yes,49.7%
+3,35,male,no,no,no,no,none,no,no,unknown or other,yes,6.8%
+4,45,female,yes,no,yes,yes,grade III oder IV,peripheral malperfusion,yes,descending or further downstream,no,56.2%
